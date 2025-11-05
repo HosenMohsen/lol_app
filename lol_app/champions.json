@@ -1,0 +1,125 @@
+{
+  "data": {
+    "Aatrox": {
+      "id": "Aatrox",
+      "name": "Aatrox",
+      "role": ["Top"],
+      "title": "the Darkin Blade",
+      "blurb": "Aatrox est un guerrier légendaire corrompu par une arme ancienne, marchant entre la vie et la mort, semant la destruction partout où il va...",
+      "image": {
+        "full": "Aatrox.png",
+        "url": "https://i.redd.it/doffc37fmb221.jpg"
+      },
+      "tags": ["Fighter", "Tank"]
+    },
+    "Ahri": {
+      "id": "Ahri",
+      "name": "Ahri",
+      "role": ["Mid"],
+      "title": "the Nine-Tailed Fox",
+      "blurb": "Ahri est une renarde à neuf queues qui manipule l'essence vitale de ses ennemis pour accroître ses pouvoirs magiques...",
+      "image": {
+        "full": "Ahri.png",
+        "url": "https://cdn.oneesports.gg/cdn-data/2024/05/LeagueofLegends_RisenLegendAhri_SplashArt.jpg"
+      },
+      "tags": ["Mage", "Assassin"]
+    },
+    "Garen": {
+      "id": "Garen",
+      "name": "Garen",
+      "role": ["Top"],
+      "title": "The Might of Demacia",
+      "blurb": "Garen, le noble guerrier de Demacia, est connu pour son courage inébranlable et sa défense de l'honneur de son royaume...",
+      "image": {
+        "full": "Garen.png",
+        "url": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/base/images/garen_splash_centered_0.jpg"
+      },
+      "tags": ["Fighter", "Tank"]
+    },
+    "Lux": {
+      "id": "Lux",
+      "name": "Lux",
+      "role": ["Mid", "Support"],
+      "title": "the Lady of Luminosity",
+      "blurb": "Lux, une mage lumineuse de Demacia, manipule la magie de la lumière pour protéger ses alliés et vaincre ses ennemis...",
+      "image": {
+        "full": "Lux.png",
+        "url": "https://i.redd.it/vqh3500gzhk41.jpg"
+      },
+      "tags": ["Mage", "Support"]
+    },
+    "Yasuo": {
+      "id": "Yasuo",
+      "name": "Yasuo",
+      "role": ["Mid"],
+      "title": "the Unforgiven",
+      "blurb": "Yasuo, maître du vent, erre à travers Ionia, hanté par son passé et toujours en quête de rédemption pour ses erreurs passées...",
+      "image": {
+        "full": "Yasuo.png",
+        "url": "https://i.redd.it/xl4i3qyrs1l71.png"
+      },
+      "tags": ["Fighter", "Assassin"]
+    },
+    "Zed": {
+      "id": "Zed",
+      "name": "Zed",
+      "role": ["Mid"],
+      "title": "the Master of Shadows",
+      "blurb": "Zed, maître des ombres, utilise la magie interdite pour dominer ses ennemis et imposer sa vision du pouvoir...",
+      "image": {
+        "full": "Zed.png",
+        "url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Skin_Splash_Classic_Zed.jpg/revision/latest/scale-to-width-down/1200?cb=20191212175001"
+      },
+      "tags": ["Assassin"]
+    },
+    "Evelynn": {
+      "id": "Evelynn",
+      "name": "Evelynn",
+      "role": ["Jungle"],
+      "title": "Agony's Embrace",
+      "blurb": "Evelynn se nourrit de la douleur et du désir de ses victimes, frappant depuis l'ombre avec une cruauté implacable...",
+      "image": {
+        "full": "Evelynn.png",
+        "url": "https://i.redd.it/3ylxwg16wdc71.jpg"
+      },
+      "tags": ["Assassin", "Mage"]
+    },
+    "Jinx": {
+      "id": "Jinx",
+      "name": "Jinx",
+      "role": ["Adc"],
+      "title": "the Loose Cannon",
+      "blurb": "Jinx est une criminelle anarchique qui aime semer le chaos partout avec ses armes explosives et sa folie incontrôlable...",
+      "image": {
+        "full": "Jinx.png",
+        "url": "https://cdnb.artstation.com/p/assets/images/images/043/504/725/4k/bo-chen-arcane-jinx-final-2k.jpg?1637470038"
+      },
+      "tags": ["Marksman"]
+    },
+    "Thresh": {
+      "id": "Thresh",
+      "name": "Thresh",
+      "role": ["Support"],
+      "title": "the Chain Warden",
+      "blurb": "Thresh, spectre des Enfers, emprisonne les âmes des vivants dans sa lanterne et les tourmente éternellement...",
+      "image": {
+        "full": "Thresh.png",
+        "url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Skin_Splash_Classic_Thresh.jpg/revision/latest?cb=20191209225101"
+      },
+      "tags": ["Support", "Fighter"]
+    },
+    "LeeSin": {
+      "id": "LeeSin",
+      "name": "Lee Sin",
+      "role": ["Jungle"],
+      "title": "the Blind Monk",
+      "blurb": "Lee Sin, moine aveugle, maîtrise l'art du combat avec ses sens aiguisés et protège les innocents avec discipline et honneur...",
+      "image": {
+        "full": "LeeSin.png",
+        "url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/Skin_Splash_Classic_Lee_Sin.jpg/revision/latest?cb=20191209035004"
+      },
+      "tags": ["Fighter", "Assassin"]
+    }
+  }
+}
+
