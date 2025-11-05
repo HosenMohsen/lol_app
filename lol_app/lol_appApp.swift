@@ -13,12 +13,11 @@ struct lol_appApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationStack{
-                NavigationLink("Voir les champions") {
                     ChampionView()
                 }
                // .navigationTitle("Accueil")
             }
         }
     }
-}
+
 

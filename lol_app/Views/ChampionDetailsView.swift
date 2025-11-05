@@ -15,26 +15,38 @@ struct ChampionDetailsView: View {
             VStack (alignment: .leading, spacing: 20) {
                 AsyncImage(url: URL(string: champion.image.url)) { image in
                     image.resizable().scaledToFit()
+                        .clipped()
+                        .cornerRadius(10)
                 } placeholder: {
                     ProgressView()
                 }
                 .frame(height: 200)
                 
-                Text(champion.name).bold()
-                Text(champion.title)
-                    .font(.subheadline)
-                    .foregroundColor(.gray)
-                Text(champion.tags.joined(separator: ", "))
-                    .font(.caption)
-                    .foregroundColor(.blue)
+                HStack {
+                    Text(champion.name).bold()
+                    Text(champion.title)
+                        .font(.subheadline)
+                        .foregroundColor(.gray)
+                }
+                
+                HStack {
+                    
+                    Text(champion.role.joined(separator: ", "))
+                        .font(.body)
+                        .foregroundColor(.black)
+                    
+                    Text(champion.tags.joined(separator: ", "))
+                        .font(.caption)
+                        .foregroundColor(.gray)
+                    
+                 
+
+                }
                 
                 Text("\(champion.blurb)")
-                    .lineLimit(nil)
+                  //  .lineLimit(nil)
                 
-                Text(champion.role.joined(separator: ", "))
-                    .font(.caption)
-                    .foregroundColor(.blue)
-
+               
             }
             .padding()
         }
