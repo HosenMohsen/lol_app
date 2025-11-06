@@ -15,7 +15,7 @@ struct HomeView: View {
 
     var body: some View {
         ZStack{
-            Image("Image")
+            Image(Images.Bg)
                 .resizable()
                 .scaledToFill()
                 .ignoresSafeArea()
@@ -29,11 +29,12 @@ struct HomeView: View {
             
             VStack(spacing: 30) {
                 
-                Text("LEAGUE OF LEGENDS EXPLORERS")
+                Text("LEAGUE OF LEGENDS EXPLORER")
                     .font(.system(size: 30, weight: .bold, design: .default))
                     .foregroundColor(.white)
                     .multilineTextAlignment(.center)
                     .padding()
+                    .padding(.horizontal)
                 
                 PrimaryButton(title: "Voir les champions") {
                     goToChampionView = true

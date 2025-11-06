@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "Accueil" : {
+
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "Key 1" : {
+      "extractionState" : "manual"
+    },
+    "LEAGUE OF LEGENDS EXPLORER" : {
+
+    },
+    "Liste des champions" : {
+
+    },
+    "Lore" : {
+
+    },
+    "Pour en savoir plus sur %@..." : {
+
+    }
+  },
+  "version" : "1.0"
+}
