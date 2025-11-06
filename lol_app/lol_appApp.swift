@@ -13,11 +13,9 @@ struct lol_appApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationStack{
-                    ChampionView()
-                }
-               // .navigationTitle("Accueil")
+                HomeView()
             }
         }
     }
-
+}
 
