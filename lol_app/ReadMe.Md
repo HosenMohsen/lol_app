@@ -54,6 +54,7 @@ Structure simplifiée :
     { "name": "Base", "url": "https://..." }
   ]
 }
+```
 
 Pour le cloner : git clone git@github.com:HosenMohsen/lol_app.git
 
