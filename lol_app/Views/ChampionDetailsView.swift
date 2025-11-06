@@ -98,36 +98,18 @@ struct ChampionDetailsView: View {
                 )
                 .shadow(color: .black.opacity(0.3), radius: 8, x: 0, y: 4)
                 .padding(.horizontal)
+                .padding(.bottom, 10)
             }
+            
+            if !champion.skins.isEmpty {
+                SkinCarouselView(skins: champion.skins)
+            }
+
         }
-        .background(Color(.secondarySystemBackground))
         .navigationTitle(champion.name)
         .navigationBarTitleDisplayMode(.inline)
     }
 }
-//                HStack {
-//                    
-//                    Text(champion.role.joined(separator: ", "))
-//                        .font(.body)
-//                        .foregroundColor(.black)
-//                    
-//                    Text(champion.tags.joined(separator: ", "))
-//                        .font(.caption)
-//                        .foregroundColor(.gray)
-//                    
-//                 
-//
-//                }
-//                
-//               
-//               
-//            }
-//            .padding()
-//        }
-//        .navigationTitle(champion.name)
-//        .navigationBarTitleDisplayMode(.inline)
-//    }
-//}
 
 
 #Preview {

@@ -7,7 +7,8 @@
 
 import SwiftUI
 
-enum Images {
-    static let BackgroundHome = Image("BackgroundHome", bundle: .module)
+public enum Images {
+    public static let BackgroundHome = Image("BackgroundHome", bundle: .module)
+   public static let Bg = Image("Bg", bundle: .module)
 }
 

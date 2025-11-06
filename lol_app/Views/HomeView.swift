@@ -40,7 +40,6 @@ struct HomeView: View {
                 }
                 .padding(.horizontal, 50)
                       .padding(.bottom,160)
-            //    .padding(.top, 150)
 
             }
             .navigationTitle("Accueil")

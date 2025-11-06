@@ -20,6 +20,13 @@ struct Champion: Decodable, Identifiable {
     let tags: [String]
     let blurb: String
     let role:  [String]
+    let skins: [Skin]
+}
+
+struct Skin: Identifiable, Codable {
+    let id: Int
+    let name: String
+    let imageUrl: String
 }
 
 struct ChampionImage: Decodable {

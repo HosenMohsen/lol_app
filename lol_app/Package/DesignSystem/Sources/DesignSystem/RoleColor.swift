@@ -9,7 +9,7 @@
 import SwiftUI
 
 extension Color {
-    static func roleColor(for role: String) -> Color {
+   public static func roleColor(for role: String) -> Color {
         switch role.lowercased() {
         case "mid":
             return .red

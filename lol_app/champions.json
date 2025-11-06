@@ -10,7 +10,29 @@
         "full": "Aatrox.png",
         "url": "https://i.redd.it/doffc37fmb221.jpg"
       },
-      "tags": ["Fighter", "Tank"]
+      "tags": ["Fighter", "Tank"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Aatrox",
+          "imageUrl": "https://lh3.googleusercontent.com/proxy/cZsGLI2lXs0zM17RbmS1crA2PzZJLbUqLLDvs0JcWxKygZUWlQDPmLHlMmgL4YF9Qkx4OXrUJGNetFuH335hM0qbli12QYX2VZ2x4YRFYAtQUEsETp_2"
+        },
+        {
+          "id": 1,
+          "name": "Justicar Aatrox",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin33/images/aatrox_splash_centered_33.skins_aatrox_skin33.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Justicar Aatrox",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin09/images/aatrox_splash_uncentered_9.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Justicar Aatrox",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/aatrox/skins/skin09/images/aatrox_splash_uncentered_9.jpg"
+        }
+      ]
     },
     "Ahri": {
       "id": "Ahri",
@@ -22,7 +44,29 @@
         "full": "Ahri.png",
         "url": "https://cdn.oneesports.gg/cdn-data/2024/05/LeagueofLegends_RisenLegendAhri_SplashArt.jpg"
       },
-      "tags": ["Mage", "Assassin"]
+      "tags": ["Mage", "Assassin"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Ahri",
+          "imageUrl": "https://i.pinimg.com/736x/c3/0c/b1/c30cb1aedbee18a3899c1ee9a7307e71.jpg"
+        },
+        {
+          "id": 23,
+          "name": "Spirit Blossom Ahri",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin14/images/ahri_splash_uncentered_14.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Spirit Blossom Ahri",
+          "imageUrl": "https://www.pixground.com/wp-content/uploads/2025/08/Ahri-Crystal-Rose-Skin-Lol-Wild-Rift-Splash-Art-4k-Wallpaper.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Spirit Blossom Ahri",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/ahri/skins/skin88/images/ahri_splash_centered_88.skins_ahri_skin88.jpg"
+        }
+      ]
     },
     "Garen": {
       "id": "Garen",
@@ -34,7 +78,29 @@
         "full": "Garen.png",
         "url": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/base/images/garen_splash_centered_0.jpg"
       },
-      "tags": ["Fighter", "Tank"]
+      "tags": ["Fighter", "Tank"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Garen",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin33/images/garen_splash_centered_33.jpg"
+        },
+        {
+          "id": 1,
+          "name": "God-King Garen",
+          "imageUrl": "https://static.fandomspot.com/images/11/21890/00-featured-god-king-garen-splash-preview-lol.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Battle academia",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin24/images/garen_splash_centered_24.jpg"
+        },
+        {
+          "id": 3,
+          "name": "God-King Garen",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/garen/skins/skin22/images/garen_splash_centered_22.jpg"
+        }
+      ]
     },
     "Lux": {
       "id": "Lux",
@@ -46,7 +112,29 @@
         "full": "Lux.png",
         "url": "https://i.redd.it/vqh3500gzhk41.jpg"
       },
-      "tags": ["Mage", "Support"]
+      "tags": ["Mage", "Support"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Lux",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin08/images/lux_splash_centered_8.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Elementalist Lux",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin61/images/lux_splash_centered_61.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Classic Lux",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin18/images/lux_splash_centered_18.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Classic Lux",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/lux/skins/skin15/images/lux_splash_centered_15.jpg"
+        }
+      ]
     },
     "Yasuo": {
       "id": "Yasuo",
@@ -58,7 +146,29 @@
         "full": "Yasuo.png",
         "url": "https://i.redd.it/xl4i3qyrs1l71.png"
       },
-      "tags": ["Fighter", "Assassin"]
+      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Yasuo",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin55/images/yasuo_splash_centered_55.jpg"
+        },
+        {
+          "id": 1,
+          "name": "True Damage Yasuo",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin03/images/yasuo_splash_centered_3.jpg"
+        },
+        {
+          "id": 5,
+          "name": "True Damage Yasuo",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin68/images/yasuo_splash_centered_68.jpg"
+        },
+        {
+          "id": 4,
+          "name": "True Damage Yasuo",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/yasuo/skins/skin09/images/yasuo_splash_centered_9.jpg"
+        }
+      ]
     },
     "Zed": {
       "id": "Zed",
@@ -70,7 +180,29 @@
         "full": "Zed.png",
         "url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/d/d3/Skin_Splash_Classic_Zed.jpg/revision/latest/scale-to-width-down/1200?cb=20191212175001"
       },
-      "tags": ["Assassin"]
+      "tags": ["Assassin"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Zed",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin38/images/zed_splash_centered_38.jpg"
+        },
+        {
+          "id": 17,
+          "name": "PROJECT: Zed",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin03/images/zed_splash_centered_3.jpg"
+        },
+        {
+          "id": 17,
+          "name": "PROJECT: Zed",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin15/images/zed_splash_centered_15.jpg"
+        },
+        {
+          "id": 17,
+          "name": "PROJECT: Zed",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/zed/skins/skin02/images/zed_splash_centered_2.jpg"
+        }
+      ]
     },
     "Evelynn": {
       "id": "Evelynn",
@@ -82,7 +214,29 @@
         "full": "Evelynn.png",
         "url": "https://i.redd.it/3ylxwg16wdc71.jpg"
       },
-      "tags": ["Assassin", "Mage"]
+      "tags": ["Assassin", "Mage"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Evelynn",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin05/images/evelynn_splash_centered_5.jpg"
+        },
+        {
+          "id": 1,
+          "name": "K/DA Evelynn",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin32/images/evelynn_splash_centered_32.jpg"
+        },
+        {
+          "id": 2,
+          "name": "K/DA Evelynn",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin01/images/evelynn_splash_centered_1.jpg"
+        },
+        {
+          "id": 23,
+          "name": "K/DA Evelynn",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/evelynn/skins/skin52/images/evelynn_splash_centered_52.jpg"
+        }
+      ]
     },
     "Jinx": {
       "id": "Jinx",
@@ -94,7 +248,29 @@
         "full": "Jinx.png",
         "url": "https://cdnb.artstation.com/p/assets/images/images/043/504/725/4k/bo-chen-arcane-jinx-final-2k.jpg?1637470038"
       },
-      "tags": ["Marksman"]
+      "tags": ["Marksman"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "T1 Jinx",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin62/images/jinx_splash_centered_62.skins_jinx_skin62.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Arcane Jinx",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin20/images/jinx_splash_centered_20.jpg"
+        },
+        {
+          "id": 1,
+          "name": "Arcane Jinx",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin04/images/jinx_splash_centered_4.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Arcane Jinx",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/jinx/skins/skin40/images/jinx_splash_centered_40.jpg"
+        }
+      ]
     },
     "Thresh": {
       "id": "Thresh",
@@ -106,7 +282,29 @@
         "full": "Thresh.png",
         "url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/f3/Skin_Splash_Classic_Thresh.jpg/revision/latest?cb=20191209225101"
       },
-      "tags": ["Support", "Fighter"]
+      "tags": ["Support", "Fighter"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Thresh",
+          "imageUrl": "https://preview.redd.it/ukz6hurltn971.jpg?width=1200&format=pjpg&auto=webp&s=2d386482fd84daa76c5f28c08314d1c2eed6444e"
+        },
+        {
+          "id": 15,
+          "name": "High Noon Thresh",
+          "imageUrl": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/20070737/SpiritBlossomThresh_FINAL.jpg?w=1600&h=1200&fit=crop"
+        },
+        {
+          "id": 1,
+          "name": "High Noon Thresh",
+          "imageUrl": "https://i.redd.it/x3m262c0ep7f1.jpeg"
+        },
+        {
+          "id": 2,
+          "name": "High Noon Thresh",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/thresh/skins/skin28/images/thresh_splash_uncentered_28.jpg"
+        }
+      ]
     },
     "LeeSin": {
       "id": "LeeSin",
@@ -118,7 +316,30 @@
         "full": "LeeSin.png",
         "url": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e2/Skin_Splash_Classic_Lee_Sin.jpg/revision/latest?cb=20191209035004"
       },
-      "tags": ["Fighter", "Assassin"]
+      "tags": ["Fighter", "Assassin"],
+      "skins": [
+        {
+          "id": 0,
+          "name": "Classic Lee Sin",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin03/images/leesin_splash_centered_3.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Dragon Fist Lee Sin",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin27/images/leesin_splash_centered_27.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Dragon Fist Lee Sin",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin06/images/leesin_splash_centered_6.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Dragon Fist Lee Sin",
+          "imageUrl": "https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/assets/characters/leesin/skins/skin39/images/leesin_splash_centered_39.jpg"
+        },
+        
+      ]
     }
   }
 }
