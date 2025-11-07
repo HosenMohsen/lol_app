@@ -5,6 +5,8 @@
 //  Created by HOSEN Mohsen on 06/11/2025.
 //
 
+Projet individuel : Mohsen HOSEN
+
 # 🎮 League of Legends Explorer
 
 League of Legends Explorer est une application iOS permettant de consulter les champions du jeu *League of Legends*, d’afficher leurs détails, leurs skins et d’explorer facilement leur univers.
